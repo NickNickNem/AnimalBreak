@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ebec124d10631940a736a245d7238e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Cannon: {instanceID: 0}
+  - Bullet: {instanceID: 0}
+  - BulletTransform: {instanceID: 0}
+  - AimLine: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
